@@ -27,3 +27,6 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 49
+
+/* Should enable NKRO from the boot */
+#define FORCE_NKRO
